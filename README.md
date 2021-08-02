@@ -2,8 +2,9 @@
 
 ```js
 const juanfri = {
-  technologies: 'web',
-  passions: ['performance web', 'web development']
+  pronouns: "he" | "him",
+  code: [JavaScript, Typesscript, HTML, CSS],
+  tools: [React, Node, Styled-Components],
 }
 
 ```
