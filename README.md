@@ -3,7 +3,7 @@
 ```js
 const juanfri = {
   pronouns: "he" | "him",
-  code: [JavaScript, PHP, HTML, CSS],
+  code: [JavaScript, HTML, CSS],
   tools: [React, Node],
 }
 
