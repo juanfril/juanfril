@@ -17,7 +17,7 @@
 const juanfri = {
   pronouns: "he" | "him",
   code: [JavaScript, HTML, CSS],
-  tools: [React, Node],
+  tools: [React, Node, TypeScript],
 }
 
 ```
